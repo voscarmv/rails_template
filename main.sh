@@ -1,1 +1,0 @@
-irb main.rb
